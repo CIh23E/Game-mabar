@@ -1,0 +1,6 @@
+{
+  "name": "Benteng Bintang",
+  "description": "Game aksi arkade HTML5 tembak-menembak di luar angkasa dengan sistem gelombang, upgrade, dan efek suara sintetis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
